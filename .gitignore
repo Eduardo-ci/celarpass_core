@@ -17,3 +17,9 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# Build & Distribution artifacts
+build/
+dist/
+*.egg-info/
+
